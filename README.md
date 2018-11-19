@@ -11,7 +11,7 @@
  
 ## 1. Dependências
 
-O projeto utiliza axios
+O projeto utiliza react-chartjs-2
 
     
     1 - npm install -g create-react-app
